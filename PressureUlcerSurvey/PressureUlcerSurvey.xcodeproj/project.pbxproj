@@ -94,6 +94,7 @@
 		DD132EC71F86ACED0014DC25 /* ISRadioButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ISRadioButton.swift; sourceTree = "<group>"; };
 		DD132EC91F86AE300014DC25 /* ISRadioButton-master.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "ISRadioButton-master.zip"; sourceTree = "<group>"; };
 		DD1F17A51F63234700DB4818 /* PUAPIs.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = PUAPIs.rtf; sourceTree = "<group>"; };
+		DD2972B31F8C0F46009DF116 /* lionhylra:SwiftJSONSolution: Provide an efficient solution to convert objects between Swift objects(struct) and JSON.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "lionhylra:SwiftJSONSolution: Provide an efficient solution to convert objects between Swift objects(struct) and JSON.pdf"; sourceTree = "<group>"; };
 		DD2D51E01EDFC7CA00111839 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DD2D51E21EDFC7DF00111839 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		DD2D51E31EDFC7DF00111839 /* GoToUnits.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GoToUnits.swift; sourceTree = "<group>"; };
@@ -184,6 +185,7 @@
 		DD0198321F67793F00967BB6 /* JSON Junk */ = {
 			isa = PBXGroup;
 			children = (
+				DD2972B31F8C0F46009DF116 /* lionhylra:SwiftJSONSolution: Provide an efficient solution to convert objects between Swift objects(struct) and JSON.pdf */,
 				DD01982C1F67730E00967BB6 /* JSONCompatible.swift */,
 				DD01982D1F67730E00967BB6 /* Patient_Detail.swift */,
 				DD01982E1F67730E00967BB6 /* Ulcer_info.swift */,
